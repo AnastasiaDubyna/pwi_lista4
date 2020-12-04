@@ -1,1 +1,2 @@
-Trorzymy pierwsze prawdziwe gałęzie, hurra!
+
+Tworzymy pierwsze prawdziwe gałęzie, hurra!
